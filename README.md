@@ -1,3 +1,3 @@
-# angular-ivy-ecbv7q
+# TicTacDraw
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-ivy-ecbv7q)
+Just a quick&dirty test using StackBlitz.
