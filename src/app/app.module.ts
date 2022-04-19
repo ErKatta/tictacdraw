@@ -8,7 +8,6 @@ import { AppComponent } from './app.component';
 import { GridComponent } from './grid/grid.component';
 
 @NgModule({
-  exports: [MatIconModule, MatToolbarModule],
   imports: [
     BrowserModule,
     BrowserAnimationsModule,
